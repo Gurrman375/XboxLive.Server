@@ -29,3 +29,10 @@ This project is by **no means** associated nor endorsed by Microsoft.
 
 **Credits**:
 - Kerberos decoding/encoding parts are from GhostPack/Rubeus
+- ?? kekeo/modules/asn1/kull_m_kerberos_asn1.h and kekeo/blob/master/modules/asn1/KerberosV5Spec2.asn
+- Encryption and Checksum Specifications for Kerberos 5 from https://tools.ietf.org/html/rfc3961
+- ?? ps4dev/freebsd-include-mirror/blob/master/krb5_asn1.h
+- ?? skelsec/minikerberos/blob/master/minikerberos/kerberoserror.py
+- ?? alexbrainman/sspi/blob/master/syscall.go
+- ?? vletoux/MakeMeEnterpriseAdmin/blob/master/MakeMeEnterpriseAdmin.ps1
+- InitializeSecurityContext adapted from https://www.pinvoke.net/default.aspx/secur32.InitializeSecurityContext
